@@ -37,7 +37,15 @@ Well, I make online web tools just to fill the void in life, and also make rando
 
 ---
 
-<img src="https://media.moddb.com/cache/images/games/1/39/38888/thumb_620x2000/Ultima.gif">
+<img src="https://media.moddb.com/cache/images/games/1/39/38888/thumb_620x2000/Ultima.gif" alt="gif lol">
 
-> [!TIP]
-> do like spongebob to avoid a sea bear attack 
+besides being a passive person and rarely going out of civilisation I also have my own views which I will make reference to in my page posts.
+
+okay that's all from me that's all that can be conveyed, and cyaa ...
+
+---
+
+> [!CAUTION]
+> This content is sensitive and contains negativity that is not suitable for your age of maturity.
+
+---
