@@ -36,6 +36,7 @@ Well, I make online web tools just to fill the void in life, and also make rando
 
 ---
 
-![imagekyun](https://github.com/chloethesis/chloethesis/assets/156493057/49e0aa7c-daa7-419e-9104-a24e4adec163)
+<img src="https://media.moddb.com/cache/images/games/1/39/38888/thumb_620x2000/Ultima.gif">
+
 > [!TIP]
 > do like spongebob to avoid a sea bear attack 
