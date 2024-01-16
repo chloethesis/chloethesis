@@ -29,7 +29,7 @@ Well, I make online web tools just to fill the void in life, and also make rando
        ╰─ └── Geolocation
 
 ╭── [ root@chloethesis ]-[~]
-╰──〉 $Etc..
+╰──〉 $etc..
 
 
 ```
