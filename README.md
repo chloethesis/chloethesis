@@ -13,6 +13,29 @@ Hi, I am a human being created to complete life in this world, my purpose in lif
    
 ---
 
+# 📂 Tools
+
+Well, I make online web tools just to fill the void in life, and also make random posts according to my mood.
+
+```diff
+
+╭── [ root@chloethesis ]-[~]
+╰──〉 $tools/
+       ╰─ ┌── Reverse IP
+       ╰─ ├── Whois
+       ╰─ ├── Discord Date Information
+       ╰─ ├── Data Breach Check
+       ╰─ ├── DNS Lookup
+       ╰─ └── Geolocation
+
+╭── [ root@chloethesis ]-[~]
+╰──〉 $Etc..
+
+
+```
+
+---
+
 ![imagekyun](https://github.com/chloethesis/chloethesis/assets/156493057/49e0aa7c-daa7-419e-9104-a24e4adec163)
 > [!TIP]
 > do like spongebob to avoid a sea bear attack 
