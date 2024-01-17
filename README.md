@@ -18,7 +18,6 @@ Hi, I am a human being created to complete life in this world, my purpose in lif
 Well, I make online web tools just to fill the void in life, and also make random posts according to my mood.
 
 ```diff
-@@-------[ jajajaja >.< ]-------@@
 
 ╭── [ root@chloethesis ]-[~]
 ╰──〉 $tools/
