@@ -1,5 +1,11 @@
 # ✨ Sunny Day Man
 
+
+
+https://github.com/chloethesis/chloethesis/assets/156493057/802fc1e1-2c47-4c9e-b121-aba1b5829a23
+
+
+
 **`Leisure People (Otaku/Hikikomori/Random People)`**
 
 Hi, I am a human being created to complete life in this world, my purpose in life is to be an anime connoisseur. 
