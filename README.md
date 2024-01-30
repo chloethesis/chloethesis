@@ -4,3 +4,8 @@
   <br />
 <img src="/assets/god.png" alt="god">
 </div>
+
+------
+<div align="center">
+  <p align="center">Copyright © by Chloe</p>
+</div>
