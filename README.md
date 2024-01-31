@@ -41,8 +41,6 @@ mpk=
 
 ```
 
-<br />
-
 <img src="/assets/god.png" alt="god">
 </div>
 
