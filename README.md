@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=intext:"chloethesis"">「 Search Me Senpai 」</a>
+    <a href="https://www.google.com/search?q=fbi">「 Search Me Senpai 」</a>
     <br>
     「 I am a young man full of enthusiasm from <b>Isekai</b> 」
     <br>
