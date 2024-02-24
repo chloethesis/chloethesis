@@ -1,4 +1,4 @@
-![[card][https://capsule-render.vercel.app/api?type=waving&height=300&color=6488ea&text=HELLO%20WORLD&fontAlign=50&descAlignY=50&fontColor=FFFFFF&textBg=false&descAlign=50&animation=twinkling]](https://capsule-render.vercel.app/api?type=waving&height=300&color=6488ea&text=HELLO%20WORLD&fontAlign=50&descAlignY=50&fontColor=FFFFFF&textBg=false&descAlign=50&animation=twinkling)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&fontSize=30&fontColor=edeef6&animation=twinkling&fontAlignY=30&section=header"/>
 
 
 <div align="center">
@@ -17,3 +17,5 @@
   </div>
 
   [![Chloethesis github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chloethesis&custom_title=%20&bg_color=0d1117&color=1ed760&line=1ed760&point=1db954&area=true&hide_border=true&radius=8)](https://github.com/chloethesis/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
