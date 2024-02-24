@@ -42,6 +42,11 @@ $${\color{cyan}---\space ---
 <h3 align="center">
         <samp>- My Posts -
         </samp>
+        <br />
+        <br />
+        
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=my-theme-discord&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)]([[https://github.com/chloethesis/chloethesis](https://github.com/chloethesis/my-theme-discord)](https://github.com/chloethesis/my-theme-discord))
+
 </h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=120&section=footer"/>
