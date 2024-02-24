@@ -1,0 +1,1 @@
+![[card][https://capsule-render.vercel.app/api?type=waving&height=300&color=6488ea&text=HELLO%20WORLD&fontAlign=50&descAlignY=50&fontColor=FFFFFF&textBg=false&descAlign=50&animation=twinkling]](https://capsule-render.vercel.app/api?type=waving&height=300&color=6488ea&text=HELLO%20WORLD&fontAlign=50&descAlignY=50&fontColor=FFFFFF&textBg=false&descAlign=50&animation=twinkling)
