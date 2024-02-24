@@ -11,11 +11,9 @@
   <br>
 </div>
 
-<br />
-
 <div align="center">  
-    <img width="100%" src="https://github-readme-stats-vianasamuel.vercel.app/api?username=chloethesis&theme=darcula&line_height=30px&custom_title=Stats%3A&bg_color=0d1117&title_color=1ed760&icon_color=1ed760&show_icons=true&hide_border=true&count_private=true"/> 
-    <img width="100%" src="https://github-readme-stats-vianasamuel.vercel.app/api/top-langs/?username=chloethesis&theme=darcula&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=1ed760&hide_border=true&layout=compact"/>
+    <img width="50%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api?username=chloethesis&theme=darcula&line_height=30px&custom_title=Stats%3A&bg_color=0d1117&title_color=1ed760&icon_color=1ed760&show_icons=true&hide_border=true&count_private=true"/> 
+    <img width="48%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api/top-langs/?username=chloethesis&theme=darcula&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=1ed760&hide_border=true&layout=compact"/>
   </div>
 
   [![Chloethesis github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chloethesis&custom_title=%20&bg_color=0d1117&color=1ed760&line=1ed760&point=1db954&area=true&hide_border=true&radius=8)](https://github.com/chloethesis/github-readme-activity-graph)
