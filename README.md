@@ -43,8 +43,14 @@ $${\color{cyan}--- \space --- \space \color{cyan} ---}$$
         </samp>
         <br />
         <br />
-        
+
 [![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=my-theme-discord&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/my-theme-discord)
+
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=doxbin-template&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/doxbin-template)
+
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=chloethesis.github.io&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/chloethesis.github.io)
+
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=wso-5.1.4.php&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/wso-5.1.4.php)
 </h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=120&section=footer"/>
