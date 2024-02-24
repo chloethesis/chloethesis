@@ -34,4 +34,14 @@
 
   [![Chloethesis github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chloethesis&custom_title=%20&bg_color=0d1117&color=0ff0fc&line=0ff0fc&point=1db954&area=true&hide_border=true&radius=8)](https://github.com/chloethesis/github-readme-activity-graph)
 
+<br />
+
+$${\color{cyan}---\space ---
+\space \color{cyan}---}$$
+
+<h3 align="center">
+        <samp>- My Posts -
+        </samp>
+</h3>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=120&section=footer"/>
