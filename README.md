@@ -36,8 +36,7 @@
 
 <br />
 
-$${\color{cyan}---\space ---
-\space \color{cyan}---}$$
+$${\color{cyan}--- \space --- \space \color{cyan} ---}$$
 
 <h3 align="center">
         <samp>- My Posts -
