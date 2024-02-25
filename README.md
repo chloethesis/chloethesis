@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=120&fontSize=30&fontColor=edeef6&animation=twinkling&fontAlignY=30&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=140&fontSize=30&fontColor=edeef6&animation=twinkling&fontAlignY=30&section=header"/>
 
 ![My card name](https://cardivo.vercel.app/api?name=Katyusha&description=Hola,%20I'm%20Katyusha%20welcome%20you%20for%20visiting%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/156493057?s=400&u=214a45ba0da6db16e805aa010456664b3f7d21ce&v=4&backgroundColor=%23ecf0f1&instagram=Zuck&github=chloethesis&pattern=leaf&colorPattern=%23eaeaea)
 
@@ -57,4 +57,4 @@ $${\color{cyan}--- \space --- \space \color{cyan} ---}$$
 [![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=wso-5.1.4.php&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/wso-5.1.4.php)
 </h3>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=140&section=footer"/>
