@@ -45,7 +45,9 @@ $${\color{cyan}--- \space --- \space \color{cyan} ---}$$
         </samp>
         <br />
         <br />
-
+<div align="center">
+        <img src="https://media.discordapp.net/attachments/1192318803934195742/1211155789100752926/standard.gif?ex=65ed2bba&is=65dab6ba&hm=4d46c14b9dcfd1c043f9cf8932f645e72507a3889f5a22a4444927125f968a37&" width="100%"></div>
+        
 [![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=my-theme-discord&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/my-theme-discord)
 
 [![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=doxbin-template&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/doxbin-template)
