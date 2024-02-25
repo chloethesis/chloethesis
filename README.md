@@ -56,7 +56,7 @@ $${\color{cyan}--- \space --- \space \color{cyan} ---}$$
 
 [![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=wso-5.1.4.php&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://github.com/chloethesis/wso-5.1.4.php)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=46947617bb9f32903055deb693d592fa&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=46947617bb9f32903055deb693d592fa&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://gist.github.com/chloethesis/46947617bb9f32903055deb693d592fa/)
 </h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=140&section=footer"/>
