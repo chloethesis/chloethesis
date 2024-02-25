@@ -48,13 +48,15 @@ $${\color{cyan}--- \space --- \space \color{cyan} ---}$$
 <div align="center">
         <img src="https://media.discordapp.net/attachments/1192318803934195742/1211155789100752926/standard.gif?ex=65ed2bba&is=65dab6ba&hm=4d46c14b9dcfd1c043f9cf8932f645e72507a3889f5a22a4444927125f968a37&" width="100%"></div>
         
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=my-theme-discord&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/my-theme-discord)
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=my-theme-discord&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://github.com/chloethesis/my-theme-discord)
 
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=doxbin-template&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/doxbin-template)
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=doxbin-template&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://github.com/chloethesis/doxbin-template)
 
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=chloethesis.github.io&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/chloethesis.github.io)
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=chloethesis.github.io&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://github.com/chloethesis/chloethesis.github.io)
 
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=wso-5.1.4.php&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=0ff0fc&icon_color=0ff0fc)](https://github.com/chloethesis/wso-5.1.4.php)
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=wso-5.1.4.php&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://github.com/chloethesis/wso-5.1.4.php)
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=46947617bb9f32903055deb693d592fa&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 </h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=140&section=footer"/>
