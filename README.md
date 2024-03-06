@@ -43,7 +43,7 @@
 <img src="https://moe-counter.glitch.me/get/@chloethesis?theme=rule34" width="100%">
 
 
-$${\color{cyan}--- \space --- \space \color{cyan} ---}$$
+$${\color{purple}--- \space --- \space \color{purple} ---}$$
 
 <h3 align="center">
         <samp>- My Posts -
