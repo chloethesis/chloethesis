@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=140&fontSize=30&fontColor=edeef6&animation=twinkling&fontAlignY=30&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=140&fontSize=30&fontColor=edeef6&animation=twinkling&fontAlignY=30&section=header"/>-->
 
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=250&section=header&text=My%20Github%20Profile&fontSize=70&animation=fadeIn&fontAlignY=38&desc=https://127.0.0?1/&descAlignY=51&descAlign=62"/>-->
 
@@ -64,4 +64,4 @@ $${\color{cyan}--- \space --- \space \color{cyan} ---}$$
 <!--[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=46947617bb9f32903055deb693d592fa&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://gist.github.com/chloethesis/46947617bb9f32903055deb693d592fa/)-->
 </h3>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=140&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=140&section=footer"/>-->
