@@ -2,11 +2,11 @@
 
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=250&section=header&text=My%20Github%20Profile&fontSize=70&animation=fadeIn&fontAlignY=38&desc=https://127.0.0?1/&descAlignY=51&descAlign=62"/>-->
 
-![My card name](https://cardivo.vercel.app/api?name=cloryn&description=Hola,%20I'm%20cloryn%20welcome%20you%20for%20visiting%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/156493057?s=400&u=214a45ba0da6db16e805aa010456664b3f7d21ce&v=4&backgroundColor=%23ecf0f1&instagram=Zuck&github=chloethesis&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Cloryn&description=Hola,%20I'm%20cloryn%20welcome%20you%20for%20visiting%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/156493057?s=400&u=214a45ba0da6db16e805aa010456664b3f7d21ce&v=4&backgroundColor=%23ecf0f1&instagram=Zuck&github=chloethesis&pattern=leaf&colorPattern=%23eaeaea)
 
 <h3 align="center">
         <samp>&gt; Hi Amigo!, I am
-                <b><a target="_blank" href="?">cloryn</a></b>
+                <b><a target="_blank" href="?">Cloryn</a></b>
         </samp>
 </h3>
 
