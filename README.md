@@ -23,20 +23,20 @@
 
 <div align="center">
   <a href="https://www.discord.com/" target="_blank" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-191414?style=for-the-badge&amp;logo=Discord&amp;logoColor=0ff0fc&amp;link=https://www.discord.com/"></a>
+  <img src="https://img.shields.io/badge/-Discord-191414?style=for-the-badge&amp;logo=Discord&amp;logoColor=6305dc&amp;link=https://www.discord.com/"></a>
   <a href="mailto:dimitri@fbi.gov" target="_blank" alt="Gmail">
-  <img src= "https://img.shields.io/badge/-Gmail-191414?style=for-the-badge&amp;logo=Gmail&amp;logoColor=0ff0fc&amp;link=mailto:dimitri@fbi.gov"></a>
+  <img src= "https://img.shields.io/badge/-Gmail-191414?style=for-the-badge&amp;logo=Gmail&amp;logoColor=6305dc&amp;link=mailto:dimitri@fbi.gov"></a>
   <a href="https://github.com/chloethesis/" target="_blank" alt="Discord">
-  <img src="https://img.shields.io/badge/-Github-191414?style=for-the-badge&amp;logo=Github&amp;logoColor=0ff0fc&amp;link=https://github.com/chloethesis/"></a>
+  <img src="https://img.shields.io/badge/-Github-191414?style=for-the-badge&amp;logo=Github&amp;logoColor=6305dc&amp;link=https://github.com/chloethesis/"></a>
   <br>
 </div>
 
 <div align="center">  
-    <img width="50%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api?username=chloethesis&theme=darcula&line_height=30px&custom_title=Stats%3A&bg_color=0d1117&title_color=0ff0fc&icon_color=0ff0fc&show_icons=true&hide_border=true&count_private=true"/> 
-    <img width="48%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api/top-langs/?username=chloethesis&theme=darcula&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=0ff0fc&hide_border=true&layout=compact"/>
+    <img width="50%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api?username=chloethesis&theme=darcula&line_height=30px&custom_title=Stats%3A&bg_color=0d1117&title_color=6305dc&icon_color=6305dc&show_icons=true&hide_border=true&count_private=true"/> 
+    <img width="48%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api/top-langs/?username=chloethesis&theme=darcula&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=6305dc&hide_border=true&layout=compact"/>
   </div>
 
-  [![Chloethesis github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chloethesis&custom_title=%20&bg_color=0d1117&color=0ff0fc&line=0ff0fc&point=1db954&area=true&hide_border=true&radius=8)](https://github.com/chloethesis/github-readme-activity-graph)
+  [![Chloethesis github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chloethesis&custom_title=%20&bg_color=0d1117&color=6305dc&line=6305dc&point=1db954&area=true&hide_border=true&radius=8)](https://github.com/chloethesis/github-readme-activity-graph)
 
 <br />
 
@@ -53,15 +53,15 @@ $${\color{cyan}--- \space --- \space \color{cyan} ---}$$
 <div align="center">
         <img src="https://media.discordapp.net/attachments/1192318803934195742/1211155789100752926/standard.gif?ex=65ed2bba&is=65dab6ba&hm=4d46c14b9dcfd1c043f9cf8932f645e72507a3889f5a22a4444927125f968a37&" width="100%"></div>
         
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=my-theme-discord&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://github.com/chloethesis/my-theme-discord)
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=my-theme-discord&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/my-theme-discord)
 
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=doxbin-template&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://github.com/chloethesis/doxbin-template)
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=doxbin-template&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/doxbin-template)
 
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://github.com/chloethesis/defenderagain)
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/defenderagain)
 
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=wso-5.1.4.php&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://github.com/chloethesis/wso-5.1.4.php)
+[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=wso-5.1.4.php&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/wso-5.1.4.php)
 
-<!--[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=46947617bb9f32903055deb693d592fa&border_color=0ff0fc&bg_color=0D1117&title_color=0ff0fc&text_color=C3C8E3&icon_color=0ff0fc)](https://gist.github.com/chloethesis/46947617bb9f32903055deb693d592fa/)-->
+<!--[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=46947617bb9f32903055deb693d592fa&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://gist.github.com/chloethesis/46947617bb9f32903055deb693d592fa/)-->
 </h3>
 
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=140&section=footer"/>-->
