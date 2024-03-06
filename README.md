@@ -2,11 +2,11 @@
 
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=d4e6f7&height=250&section=header&text=My%20Github%20Profile&fontSize=70&animation=fadeIn&fontAlignY=38&desc=https://127.0.0?1/&descAlignY=51&descAlign=62"/>-->
 
-![My card name](https://cardivo.vercel.app/api?name=Katyusha&description=Hola,%20I'm%20Katyusha%20welcome%20you%20for%20visiting%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/156493057?s=400&u=214a45ba0da6db16e805aa010456664b3f7d21ce&v=4&backgroundColor=%23ecf0f1&instagram=Zuck&github=chloethesis&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=cloryn&description=Hola,%20I'm%20cloryn%20welcome%20you%20for%20visiting%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/156493057?s=400&u=214a45ba0da6db16e805aa010456664b3f7d21ce&v=4&backgroundColor=%23ecf0f1&instagram=Zuck&github=chloethesis&pattern=leaf&colorPattern=%23eaeaea)
 
 <h3 align="center">
         <samp>&gt; Hi Amigo!, I am
-                <b><a target="_blank" href="?">Katyusha</a></b>
+                <b><a target="_blank" href="?">cloryn</a></b>
         </samp>
 </h3>
 
@@ -53,13 +53,13 @@ $${\color{purple}--- \space --- \space \color{purple} ---}$$
 <div align="center">
         <img src="https://media.discordapp.net/attachments/1192318803934195742/1211155789100752926/standard.gif?ex=65ed2bba&is=65dab6ba&hm=4d46c14b9dcfd1c043f9cf8932f645e72507a3889f5a22a4444927125f968a37&" width="100%"></div>
         
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=my-theme-discord&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/my-theme-discord)
+[![cloryn Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=my-theme-discord&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/my-theme-discord)
 
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=doxbin-template&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/doxbin-template)
+[![cloryn Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=doxbin-template&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/doxbin-template)
 
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/defenderagain)
+[![cloryn Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/defenderagain)
 
-[![Katyusha Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=wso-5.1.4.php&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/wso-5.1.4.php)
+[![cloryn Post](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=wso-5.1.4.php&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://github.com/chloethesis/wso-5.1.4.php)
 
 <!--[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=46947617bb9f32903055deb693d592fa&border_color=6305dc&bg_color=0D1117&title_color=6305dc&text_color=C3C8E3&icon_color=6305dc)](https://gist.github.com/chloethesis/46947617bb9f32903055deb693d592fa/)-->
 </h3>
