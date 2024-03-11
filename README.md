@@ -1,7 +1,5 @@
 ## みなさん、こんにちは(⁠>⁠0⁠<⁠；⁠)
 
-
-
 ![My card name](https://cardivo.vercel.app/api?name=Cloryn&description=Hola,%20I'm%20cloryn%20welcome%20you%20for%20visiting%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/156493057?s=400&u=214a45ba0da6db16e805aa010456664b3f7d21ce&v=4&backgroundColor=%23ecf0f1&instagram=Zuck&github=chloethesis&pattern=leaf&colorPattern=%23eaeaea)
 
 <p align="center">
@@ -14,9 +12,10 @@
 
 这里是 Nyakku，只是时雨家一只普普通通的小猫猫～
 
-- :globe_with_meridians: 中文 · 日本語 · ~~English~~ (learning)
-- :alarm_clock: 6:00 - 24:30 「[UTC+8](https://time.is/UTC+8)」
-- :link: [nyakku.moe](https://nyakku.moe)
+- :globe_with_meridians: 英語 · 日本 · (learning)
+- :alarm_clock: 5:00 - 00:00 「[UTC+8](https://time.is/UTC+8)」
+- 📒 マンガとアニメ
+- :link: [chloethesis.github.io](https://chloethesis.github.io/#home)
 
 ### Language 👨‍🎤
 
