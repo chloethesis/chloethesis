@@ -17,25 +17,18 @@
 ### Language 👨‍🎤
 
 <p align="center">
-  <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white">
-  <br/>
+  <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=plastic&logo=python&logoColor=white">
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
-  <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=flat-square&logo=css3">
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
-  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
-  <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
-  <br/>
-  <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
-  <img alt="c" src="https://img.shields.io/badge/C-0b0b0b?style=flat-square&logo=c">
-</p>
+  <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=plastic&logo=css3">
+  <br />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=javascript">
+  <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=plastic&logo=c%2b%2b">
+  </p>
 
 ### Tools ⌨️
 
 <p align="center">
-  <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/Apple%20Silicon-e03a3a?style=flat-square&logo=apple&logoColor=white">
-  <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
+  <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=plastic&logo=visual-studio-code&logoColor=white">
 </p>
 
 ### Spotify Playing 🎧
