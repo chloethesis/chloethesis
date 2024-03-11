@@ -13,7 +13,7 @@
 这里是 Nyanmaru，只是时雨家一只普普通通的小猫猫~
 
 
-### Language 👨‍🎤
+## Language 👨‍🎤
 
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=plastic&logo=python&logoColor=white">
@@ -22,13 +22,13 @@
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=javascript">
   </p>
 
-### Tools ⌨️
+## Tools ⌨️
 
 <p align="center">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=plastic&logo=visual-studio-code&logoColor=white">
 </p>
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 <p align="center">
   <a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
