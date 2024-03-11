@@ -12,7 +12,6 @@
 
 みなさんこんにちは、萌え萌えものの愛好家、にゃんまるです〜
 
-
 - :globe_with_meridians: 英語 · 日本 · (learning)
 - :alarm_clock: 5:00 - 00:00 「[UTC+8](https://time.is/UTC+8)」
 - 📒 マンガとアニメ
