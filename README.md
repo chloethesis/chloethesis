@@ -43,3 +43,11 @@
 <p align="center">
   <a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
+
+_____
+
+### ⚖ License
+
+<p align="center">
+<a href="#">ライセンス</a> セクションに移動して確認してください
+</p>
