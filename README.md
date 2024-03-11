@@ -1,5 +1,6 @@
 ## みなさん、こんにちは(⁠>⁠0⁠<⁠；⁠)
 
+![My card name](https://cardivo.vercel.app/api?name=Cloryn&description=Hola,%20I'm%20cloryn%20welcome%20you%20for%20visiting%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/156493057?s=400&u=214a45ba0da6db16e805aa010456664b3f7d21ce&v=4&backgroundColor=%23ecf0f1&instagram=Zuck&github=chloethesis&pattern=leaf&colorPattern=%23eaeaea)
 
 <p align="center">
   <a href="mailto:chloetease@waifu.club" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=plastic&logo=gmail&logoColor=white" alt="Email"></a>
@@ -7,7 +8,7 @@
   <a href="https://pypi.org/user/SigureMo/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775a9.svg?&style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a>
 </p>
 
-<img align="right" width="260px" src="/assets/marin.png" />
+<img align="right" width="270px" src="/assets/marin.png" />
 
 这里是 Nyanmaru，只是时雨家一只普普通通的小猫猫~
 
