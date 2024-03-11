@@ -1,5 +1,9 @@
 ## みなさん、こんにちは(⁠>⁠0⁠<⁠；⁠)
 
+
+
+![My card name](https://cardivo.vercel.app/api?name=Cloryn&description=Hola,%20I'm%20cloryn%20welcome%20you%20for%20visiting%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/156493057?s=400&u=214a45ba0da6db16e805aa010456664b3f7d21ce&v=4&backgroundColor=%23ecf0f1&instagram=Zuck&github=chloethesis&pattern=leaf&colorPattern=%23eaeaea)
+
 <p align="center">
   <a href="mailto:chloetease@waifu.club" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=plastic&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=plastic&logo=spotify&logoColor=white" alt="Spotify"></a>
