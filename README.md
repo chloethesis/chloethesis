@@ -10,12 +10,7 @@
 
 <img align="right" width="250px" src="/assets/marin.png" />
 
-这里是 Nyakku，只是时雨家一只普普通通的小猫猫～
-
-- :globe_with_meridians: 英語 · 日本 · (learning)
-- :alarm_clock: 5:00 - 00:00 「[UTC+8](https://time.is/UTC+8)」
-- 📒 マンガとアニメ
-- :link: [chloethesis.github.io](https://chloethesis.github.io/#home)
+普通のロリ好きの Nyanmaru, です～
 
 ### Language 👨‍🎤
 
