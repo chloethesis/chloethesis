@@ -10,7 +10,7 @@
 
 <img align="right" width="250px" src="/assets/marin.png" />
 
-这里是Nyakku，只今雨家一只普通通的小猫猫～这里是Nyakku，只今雨家一只普通通的小猫猫～
+みなさんこんにちは、萌え萌えものの愛好家、にゃんまるです〜
 
 
 - :globe_with_meridians: 英語 · 日本 · (learning)
