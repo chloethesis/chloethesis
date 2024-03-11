@@ -10,7 +10,7 @@
 
 <img align="right" width="250px" src="/assets/marin.png" />
 
-普通のロリ好きの Nyanmaru, です～
+这里是 Nyanmaru，只是时雨家一只普普通通的小猫猫>//<
 
 ### Language 👨‍🎤
 
