@@ -49,5 +49,5 @@ _____
 ### ⚖ License
 
 <p align="center">
-<a href="#">ライセンス</a> セクションに移動して確認してください
+<a href="/blob/main/LICENSE">ライセンス</a> セクションに移動して確認してください
 </p>
