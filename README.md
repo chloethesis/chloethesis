@@ -10,7 +10,8 @@
 
 <img align="right" width="250px" src="/assets/marin.png" />
 
-こんにちは、萌え萌えもの大好きクロエです。
+这里是Nyakku，只今雨家一只普通通的小猫猫～这里是Nyakku，只今雨家一只普通通的小猫猫～
+
 
 - :globe_with_meridians: 英語 · 日本 · (learning)
 - :alarm_clock: 5:00 - 00:00 「[UTC+8](https://time.is/UTC+8)」
