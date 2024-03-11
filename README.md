@@ -14,7 +14,7 @@
 - :alarm_clock: 6:00 - 24:30 「[UTC+8](https://time.is/UTC+8)」
 - :link: [nyakku.moe](https://nyakku.moe)
 
-### Conhecimentos / Knowledges 🐾
+### Language 👨‍🎤
 
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
@@ -31,7 +31,7 @@
   <img alt="c" src="https://img.shields.io/badge/C-0b0b0b?style=flat-square&logo=c">
 </p>
 
-### Development Environment 🍻
+### Tools ⌨️
 
 <p align="center">
   <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/Apple%20Silicon-e03a3a?style=flat-square&logo=apple&logoColor=white">
