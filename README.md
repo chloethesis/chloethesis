@@ -1,11 +1,8 @@
-## 哎呀！被发现了(\*/ω＼\*)～
+## みなさん、こんにちは(⁠>⁠0⁠<⁠；⁠)
 
 <p align="center">
-  <a href="mailto:sigure.qaq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-  <a href="https://twitter.com/SigureMo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://t.me/SigureMo" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
-  <a href="https://www.npmjs.com/~sigure_mo" target="_blank"><img src="https://img.shields.io/badge/NPM-ea3b18.svg?&style=flat-square&logo=npm&logoColor=white" alt="NPM"></a>
+  <a href="mailto:chloetease@waifu.club" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=plastic&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=plastic&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="https://pypi.org/user/SigureMo/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775a9.svg?&style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a>
 </p>
 
