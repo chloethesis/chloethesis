@@ -24,9 +24,7 @@
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=plastic&logo=python&logoColor=white">
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=plastic&logo=css3">
-  <br />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=javascript">
-  <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=plastic&logo=c%2b%2b">
   </p>
 
 ### Tools ⌨️
