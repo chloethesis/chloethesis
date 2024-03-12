@@ -40,5 +40,5 @@ _____
 ### ⚖ License
 
 <p align="center">
-<a href="/LICENSE/">ライセンス</a> セクションに移動して確認してください
+<a href="/LICENSE/">Mit License</a>
 </p>
