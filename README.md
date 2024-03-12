@@ -10,11 +10,7 @@
 
 <img align="right" width="270px" src="/assets/marin.png" />
 
-这里是 Nyanmaru，只是时雨家一只普普通通的小猫猫~
-
-
-
-
+はじめまして 这里是 Nyanmaru，只是时雨家一只普普通通的小猫猫~
 
 
 
