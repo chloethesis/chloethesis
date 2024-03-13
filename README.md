@@ -48,7 +48,6 @@
   <a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
-_____
 
 ### ⚖ _License_
 
@@ -61,6 +60,7 @@ _____
 \____/\____/ .___/\__, /_/  /_/\__, /_/ /_/\__/   /____/\____/____/ /_/    /_.___/\__, /  /_/  |_/____/_/ /_/_/\___/_/_/\___/ 
           /_/    /____/       /____/                                             /____/                                       
 </pre>
+
 
 <p align="center">
 <a href="/LICENSE/">Creative Commons Zero v1.0 Universal</a>
