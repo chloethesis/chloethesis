@@ -72,6 +72,7 @@
 
 
 <br />
+<br />
 <a href="#top">
-<img src="https://media.baamboozle.com/uploads/images/243254/1646901978_590503_gif-url.gif" align="right" width="50">
+<img src="https://media.baamboozle.com/uploads/images/243254/1646901978_590503_gif-url.gif" align="right" width="60">
 </a>
