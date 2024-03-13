@@ -39,7 +39,7 @@
 
 ### _Discord Activity_
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/988414912256696350)](https://discord.com/users/988414912256696350)
+[![Discord Presence](https://lanyard.cnrad.dev/api/988414912256696350?theme=dark&showDisplayName=true&hideTimestamp=false&bg=121212&animated=bool&hideDiscrim=true&borderRadius=20px&idleMessage=ただめちゃくちゃだ)](https://discord.com/users/988414912256696350)
 
 
 ### 🎧 _Spotify Playing_
