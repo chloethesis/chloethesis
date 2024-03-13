@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:chloetease@waifu.club" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=plastic&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=plastic&logo=spotify&logoColor=white" alt="Spotify"></a>
-  <a href="https://pypi.org/user/SigureMo/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775a9.svg?&style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a><br>
+  <a href="https://pypi.org/user/404/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775a9.svg?&style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a><br>
 <img src="https://hits-app.vercel.app/hits?url=https://github.com/chloethesis&bgLeft=222222&bgRight=575fff&label=visits">
 </p>
 
@@ -46,7 +46,7 @@
 ### 🎧 _Spotify Playing_
 
 <p align="center">
-  <a href="https://open.spotify.com/user/pj3ib1pljoqewn4ti8se8yl1q" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/user/404" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 
