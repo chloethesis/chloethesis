@@ -37,6 +37,11 @@
 <img src="https://moe-counter.glitch.me/get/@chloethesis?theme=rule34" width="100%">
 
 
+### _Discord Activity_
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/988414912256696350)](https://discord.com/users/988414912256696350)
+
+
 ### 🎧 _Spotify Playing_
 
 <p align="center">
