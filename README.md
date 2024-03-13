@@ -71,6 +71,7 @@
 <img src="https://hits-app.vercel.app/hits?url=https://github.com/chloethesis&bgLeft=222222&bgRight=575fff&label=visits"></a>
 
 
+<br />
 <a href="#top">
 <img src="https://media.baamboozle.com/uploads/images/243254/1646901978_590503_gif-url.gif" align="right" width="50">
 </a>
