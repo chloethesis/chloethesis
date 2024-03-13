@@ -23,7 +23,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=javascript">
   </p>
 
-### ⚒️ Tools
+### ⚒️ Developing Tools
 
 <p align="center">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=plastic&logo=visual-studio-code&logoColor=white">
