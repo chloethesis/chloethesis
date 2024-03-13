@@ -77,4 +77,4 @@
 
 
 
-<a href="#top"><img src="https://media.tenor.com/dhfdW3Ex9mUAAAAi/anime-dancing.gif" align="left" width="60"></a> &nbsp; <a href="#top"><img src="https://media.tenor.com/piOupYyLux0AAAAi/anime-kitty.gif" align="right" width="60"></a>
+<a href="#top"><img src="https://media.tenor.com/dhfdW3Ex9mUAAAAi/anime-dancing.gif" align="left" width="60"></a> &nbsp; <a href="#top"><img src="https://media.tenor.com/iQDVWSfsun4AAAAi/lol-anime.gif" align="right" width="90"></a>
