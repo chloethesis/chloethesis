@@ -56,5 +56,5 @@ _____
 </pre>
 
 <p align="center">
-<a href="/LICENSE/">Mit License</a>
+<a href="/LICENSE/">Creative Commons Zero v1.0 Universal</a>
 </p>
