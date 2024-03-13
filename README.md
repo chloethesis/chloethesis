@@ -65,3 +65,6 @@
 <p align="center">
 <a href="/LICENSE/">Creative Commons Zero v1.0 Universal</a>
 </p>
+
+
+[![Visitor](https://hits-app.vercel.app/hits?url=https://github.com/chloethesis&bgLeft=222222&bgRight=575fff&label=visits)](https://hits-app.vercel.app/)
