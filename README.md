@@ -75,6 +75,4 @@
 <img src="https://media.baamboozle.com/uploads/images/243254/1646901978_590503_gif-url.gif" align="right" width="90">
 </a>-->
 
-
-
-<a href="#top"><img src="https://media.tenor.com/dhfdW3Ex9mUAAAAi/anime-dancing.gif" align="left" width="60"></a> &nbsp; <a href="#top"><img src="https://media.tenor.com/iQDVWSfsun4AAAAi/lol-anime.gif" align="right" width="90"></a>
+<a href="#top"><img src="https://media.tenor.com/dhfdW3Ex9mUAAAAi/anime-dancing.gif" align="left" width="60" alt="LOL"></a> &nbsp; <a href="#top"><img src="https://media.tenor.com/iQDVWSfsun4AAAAi/lol-anime.gif" align="right" width="90" alt="LOL"></a>
