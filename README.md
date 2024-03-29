@@ -1,6 +1,6 @@
 ## みなさん、こんにちは(⁠>⁠0⁠<⁠；⁠)
 
-![My card name](https://cardivo.vercel.app/api?name=Cloryn&description=Hola,%20I'm%20cloryn%20welcome%20you%20for%20visiting%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/156493057?s=400&u=214a45ba0da6db16e805aa010456664b3f7d21ce&v=4&backgroundColor=%23ecf0f1&instagram=Zuck&github=chloethesis&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Chloe&description=Hola,%20I'm%20chloe%20welcome%20you%20for%20visiting%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/156493057?s=400&u=214a45ba0da6db16e805aa010456664b3f7d21ce&v=4&backgroundColor=%23ecf0f1&instagram=Zuck&github=chloethesis&pattern=leaf&colorPattern=%23eaeaea)
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=chloethesis&data=followers,stars,repositories,commits&theme=darkmode" />
 
