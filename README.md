@@ -101,6 +101,6 @@
 
 
 
-| <a href="https://github.com/wahidari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wahidari&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Wahidari's github stats" /></a> | <a href="https://github.com/wahidari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidari&layout=compact&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true&hide_border=true" /></a> |
+| <a href="https://github.com/chloethesis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chloethesis&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Chloe's github stats" /></a> | <a href="https://github.com/chloethesis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloethesis&layout=compact&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true&hide_border=true" /></a> |
 | ------------- | ------------- |
 
