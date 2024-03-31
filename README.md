@@ -31,12 +31,7 @@
 <a title="Vercel" href="https://vercel.com/">
   <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vercel.png" />
 </a>
-<a title="Netlify" href="https://netlify.com/">
-  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/netlify.png" />
-</a>
-<a title="Supabase" href="https://supabase.com/">
-  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/supabase.png" />
-</a>
+
 
 <br>
 
@@ -59,16 +54,7 @@
   <img align="left" alt="tools" width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/githubdesktop.png" />
 </a>
 
-<a title="Figma" href="https://www.figma.com/">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/figma.png" />
-</a>
 
-<a title="Insomnia" href="https://insomnia.rest/">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/insomnia.png" />
-</a>
-<a title="Postman" href="https://www.postman.com/">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/postman.png" />
-</a>
 <br>
   
 
