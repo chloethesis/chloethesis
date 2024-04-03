@@ -69,13 +69,10 @@
     click to go to my page
   </samp>
 </p>
-<a title="Linkedin" href="https://www.linkedin.com/in/wahidari">
-  <img align="left" alt="Wahid Ari Linkdin" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/linkedin.png" />
-</a>
-<a title="Twitter" href="https://twitter.com/wahiidari">
+<a title="Twitter" href="#">
   <img align="left" alt="Wahid Ari Twitter" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/twitter.png" />
 </a>
-<a title="Instagram" href="https://instagram.com/wahid.ari">
+<a title="Instagram" href="https://instagram.com/zuck">
   <img align="left" alt="Wahid Ari " width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.png" />
 </a>
 
