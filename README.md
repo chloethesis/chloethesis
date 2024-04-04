@@ -19,17 +19,17 @@
 </h3>
 
 <a title="Bootstrap" href="https://getbootstrap.com/">
-  <img align="left" alt="tools" height="20px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
+  <img align="left" alt="tools" height="20px" src="/assets/bootstrap.png" />
 </a>
 <a title="Tailwind" href="https://tailwindcss.com/">
-  <img align="left" alt="tools" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/tailwind.png" />
+  <img align="left" alt="tools" height="23px" src="/assets/tailwind.png" />
 </a>
 
 <a title="NextJS" href="https://nextjs.org/">
-  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/nextjs.png" />
+  <img align="left" alt="logo" width="23px" height="23px" src="/assets/nextjs.png" />
 </a>
 <a title="Vercel" href="https://vercel.com/">
-  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vercel.png" />
+  <img align="left" alt="logo" width="23px" height="23px" src="/assets/vercel.png" />
 </a>
 
 
@@ -44,14 +44,14 @@
 </h3>
 
 <a title="Visual Studio Code" href="https://code.visualstudio.com/">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vscode.png" />
+  <img align="left" alt="tools" width="21px" src="/assets/vscode.png" />
 </a>
 <a title="Terminal" href="https://github.com/topics/terminal">
-  <img align="left" alt="tools" width="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/terminal.png" />
+  <img align="left" alt="tools" width="23px" src="/assets/terminal.png" />
 </a>
 
 <a title="Github Desktop" href="https://desktop.github.com/">
-  <img align="left" alt="tools" width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/githubdesktop.png" />
+  <img align="left" alt="tools" width="24px" src="/assets/githubdesktop.png" />
 </a>
 
 
@@ -70,16 +70,12 @@
   </samp>
 </p>
 <a title="Twitter" href="#">
-  <img align="left" alt="Wahid Ari Twitter" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/twitter.png" />
+  <img align="left" alt="My Twitter" width="21px" src="/assets/twitter.png" />
 </a>
 <a title="Instagram" href="https://instagram.com/zuck">
-  <img align="left" alt="Wahid Ari " width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.png" />
+  <img align="left" alt="Instagram" width="24px" src="/assets/instagram.png" />
 </a>
 
-
-<a title="Dribble" href="https://dribbble.com/wahidari">
-  <img align="left" alt="Wahid Ari Dribble" width="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/drible.png" />
-</a>
 <br><br>
 
 
