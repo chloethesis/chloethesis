@@ -83,3 +83,14 @@
 | <a href="https://github.com/chloethesis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chloethesis&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Chloe's github stats" /></a> | <a href="https://github.com/chloethesis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloethesis&layout=compact&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+
+<h3 align="left">
+  <samp>
+    Spotify Playing
+  </samp>
+</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/404" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
