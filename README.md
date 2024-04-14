@@ -85,5 +85,5 @@ https://github.com/chloethesis/chloethesis/assets/156493057/e983566b-b35a-4e7f-a
 </h3>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31v7orphniijgc24rgh7bs574kqm" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="#" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
