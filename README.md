@@ -4,6 +4,12 @@
   </samp>
 </h2>
 
+
+
+https://github.com/chloethesis/chloethesis/assets/156493057/e983566b-b35a-4e7f-aad7-87874f21a75f
+
+
+
 <p align="left">
   <samp>
     Hi how are you, introducing my name is {unknown} a fun-seeking teenager and a lover of imagination.
