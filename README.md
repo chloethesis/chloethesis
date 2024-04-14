@@ -78,11 +78,6 @@ https://github.com/chloethesis/chloethesis/assets/156493057/e983566b-b35a-4e7f-a
 
 
 
-| <a href="https://github.com/chloethesis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chloethesis&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Chloe's github stats" /></a> | <a href="https://github.com/chloethesis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloethesis&layout=compact&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
 <h3 align="left">
   <samp>
     Spotify Playing
