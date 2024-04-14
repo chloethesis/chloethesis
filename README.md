@@ -10,14 +10,6 @@ https://github.com/chloethesis/chloethesis/assets/156493057/e983566b-b35a-4e7f-a
 
 
 
-<p align="left">
-  <samp>
-    Hi how are you, introducing my name is {unknown} a fun-seeking teenager and a lover of imagination.
-  </samp>
-</p>
-
-
-
 <h3 align="left">
   <samp>
   Currently Studying
