@@ -5,13 +5,12 @@
 </h2>
 
 
-
 https://github.com/chloethesis/chloethesis/assets/156493057/e983566b-b35a-4e7f-aad7-87874f21a75f
 
 
 <p align="left">
   <samp>
-    Empty ...
+    Before accessing the page, it would be a good idea for you to install 1 million viruses on your computer.
   </samp>
 </p>
 <br>
