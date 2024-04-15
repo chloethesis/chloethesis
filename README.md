@@ -9,6 +9,13 @@
 https://github.com/chloethesis/chloethesis/assets/156493057/e983566b-b35a-4e7f-aad7-87874f21a75f
 
 
+<p align="left">
+  <samp>
+    Empty ...
+  </samp>
+</p>
+<br>
+
 
 <h3 align="left">
   <samp>
@@ -62,11 +69,6 @@ https://github.com/chloethesis/chloethesis/assets/156493057/e983566b-b35a-4e7f-a
   </samp>
 </h3>
 
-<p align="left">
-  <samp>
-    click to go to my page
-  </samp>
-</p>
 <a title="Twitter" href="#">
   <img align="left" alt="My Twitter" width="21px" src="/assets/twitter.png" />
 </a>
