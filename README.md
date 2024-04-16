@@ -13,7 +13,6 @@ https://github.com/chloethesis/chloethesis/assets/156493057/e983566b-b35a-4e7f-a
     Before accessing the page, it would be a good idea for you to install 1 million viruses on your computer.
   </samp>
 </p>
-<br>
 
 
 <h3 align="left">
