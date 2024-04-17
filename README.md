@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gif">
+
+
 <h2 align="left">
   <samp>
     Hellcome Ningen 😉
@@ -13,7 +16,6 @@ https://github.com/chloethesis/chloethesis/assets/156493057/e983566b-b35a-4e7f-a
     Before accessing the page, it would be a good idea for you to install 1 million viruses on your computer.
   </samp>
 </p>
-
 
 <h3 align="left">
   <samp>
@@ -87,3 +89,5 @@ https://github.com/chloethesis/chloethesis/assets/156493057/e983566b-b35a-4e7f-a
 <p align="center">
   <a href="#" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gif">
