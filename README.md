@@ -96,5 +96,3 @@ https://github.com/chloethesis/chloethesis/assets/156493057/73739eb9-6b36-414b-9
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gif">
 
-![lesb](https://github.com/chloethesis/chloethesis/assets/156493057/dce21ddb-2ca2-45a3-8c83-68ab9c2048a9)
-
