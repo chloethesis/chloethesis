@@ -17,7 +17,7 @@ https://github.com/chloethesis/chloethesis/assets/156493057/73739eb9-6b36-414b-9
 
 <p align="left">
   <samp>
-    Before accessing the page, it would be a good idea for you to install 1 million viruses on your computer.
+    hello outsider, you are on my page a loner teenager who likes to enjoy his free time.
   </samp>
 </p>
 
