@@ -3,7 +3,7 @@
 
 <h2 align="left">
   <samp>
-    Hellcome Ningen 😉
+    ❯❯ Hellcome Ningen 😉
   </samp>
 </h2>
 
@@ -23,7 +23,7 @@ https://github.com/chloethesis/chloethesis/assets/156493057/73739eb9-6b36-414b-9
 
 <h3 align="left">
   <samp>
-  Currently Studying
+  ❯❯ Currently Studying
   </samp>
 </h3>
 
@@ -48,7 +48,7 @@ https://github.com/chloethesis/chloethesis/assets/156493057/73739eb9-6b36-414b-9
 
 <h3 align="left">
   <samp>
-    Tools I Use
+    ❯❯ Tools I Use
   </samp>
 </h3>
 
@@ -69,7 +69,7 @@ https://github.com/chloethesis/chloethesis/assets/156493057/73739eb9-6b36-414b-9
 
 <h3 align="left">
   <samp>
-    Find Me On Multiple Platforms
+    ❯❯ Find Me On Multiple Platforms
   </samp>
 </h3>
 
@@ -86,7 +86,7 @@ https://github.com/chloethesis/chloethesis/assets/156493057/73739eb9-6b36-414b-9
 
 <h3 align="left">
   <samp>
-    Spotify Playing
+    ❯❯ Spotify Playing
   </samp>
 </h3>
 
