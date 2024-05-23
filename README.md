@@ -3,7 +3,7 @@
 
 <h2 align="left">
   <samp>
-    ❯❯ Hellcome Ningen 😉
+    Hellcome Ningen 👋
   </samp>
 </h2>
 
