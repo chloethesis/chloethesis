@@ -3,15 +3,9 @@
 
 <h2 align="left">
   <samp>
-    Hellcome Ningen 👋
+    Hellcome Ningen <img src="https://github.com/chloethesis/chloethesis/assets/156493057/e5ba99b8-4060-4d38-84a4-a4c3710d1658" width="35" alt="Logo">
   </samp>
 </h2>
-
-
-
-
-![Hallow's_Essence](https://github.com/chloethesis/chloethesis/assets/156493057/e5ba99b8-4060-4d38-84a4-a4c3710d1658)
-
 
 
 
