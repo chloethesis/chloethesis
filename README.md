@@ -10,7 +10,8 @@
 
 
 
-https://github.com/chloethesis/chloethesis/assets/156493057/73739eb9-6b36-414b-9f84-3a2df02c5340
+![Hallow's_Essence](https://github.com/chloethesis/chloethesis/assets/156493057/e5ba99b8-4060-4d38-84a4-a4c3710d1658)
+
 
 
 
