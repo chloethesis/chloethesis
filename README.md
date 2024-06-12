@@ -13,7 +13,7 @@
 
 <p align="left">
   <samp>
-    hello outsider, you are on my page a loner teenager who likes to enjoy his free time.
+    空白...
   </samp>
 </p>
 
