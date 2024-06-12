@@ -3,10 +3,11 @@
 
 <h2 align="left">
   <samp>
-    Hellcome Ningen <img src="https://github.com/chloethesis/chloethesis/assets/156493057/e5ba99b8-4060-4d38-84a4-a4c3710d1658" width="35" alt="Logo">
+    オハヨウグザイマス👋
   </samp>
 </h2>
 
+[![Chloethesis github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=chloethesis&locale=en&show_icons=true&bg_color=ffffff&title_color=008082&text_color=223&icon_color=ff8ba7)](https://chloethesis.github.io/)
 
 
 
