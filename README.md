@@ -17,13 +17,13 @@
   </samp>
 </p>
 
-<h3 align="left">
+<!--<h3 align="left">
   <samp>
   ❯❯ Currently Studying —
   </samp>
-</h3>
+</h3>-->
 
-<a title="Bootstrap" href="https://getbootstrap.com/">
+<!--<a title="Bootstrap" href="https://getbootstrap.com/">
   <img align="left" alt="tools" height="20px" src="/assets/bootstrap.png" />
 </a>
 <a title="Tailwind" href="https://tailwindcss.com/">
@@ -35,56 +35,55 @@
 </a>
 <a title="Vercel" href="https://vercel.com/">
   <img align="left" alt="logo" width="23px" height="23px" src="/assets/vercel.png" />
-</a>
-
-
-<br>
+</a>-->
 
 
 
-<h3 align="left">
+
+
+<!--<h3 align="left">
   <samp>
     ❯❯ Tools I Use —
   </samp>
-</h3>
+</h3>-->
 
-<a title="Visual Studio Code" href="https://code.visualstudio.com/">
+<!--<a title="Visual Studio Code" href="https://code.visualstudio.com/">
   <img align="left" alt="tools" width="21px" src="/assets/vscode.png" />
 </a>
 <a title="Terminal" href="https://github.com/topics/terminal">
   <img align="left" alt="tools" width="23px" src="/assets/terminal.png" />
-</a>
+</a>-->
 
-<a title="Github Desktop" href="https://desktop.github.com/">
+<!--<a title="Github Desktop" href="https://desktop.github.com/">
   <img align="left" alt="tools" width="24px" src="/assets/githubdesktop.png" />
-</a>
+</a>-->
 
 
-<br>
+
   
 
-<h3 align="left">
+<!--<h3 align="left">
   <samp>
     ❯❯ Find Me On Multiple Platforms —
   </samp>
-</h3>
+</h3>-->
 
-<a title="Twitter" href="#">
+<!--<a title="Twitter" href="#">
   <img align="left" alt="My Twitter" width="21px" src="/assets/twitter.png" />
 </a>
 <a title="Instagram" href="https://instagram.com/zuck">
   <img align="left" alt="Instagram" width="24px" src="/assets/instagram.png" />
-</a>
-
-<br><br>
+</a>-->
 
 
 
-<h3 align="left">
+
+
+<!--<h3 align="left">
   <samp>
     ❯❯ Spotify Playing —
   </samp>
-</h3>
+</h3>-->
 
 <p align="center">
   <a href="#" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
