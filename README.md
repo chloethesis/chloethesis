@@ -85,9 +85,9 @@
   </samp>
 </h3>-->
 
-<p align="center">
+<!--<p align="center">
   <a href="#" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
