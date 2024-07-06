@@ -90,7 +90,8 @@
 </p>-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>-->
+  <img src="footer.png">
 </p>
 
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gif">-->
