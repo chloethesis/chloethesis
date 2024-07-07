@@ -13,7 +13,7 @@
 <p align="center">
   <samp>
     <b>
-      <i>"Towards Infinity And Beyond."</i>
+      <i>"Towards Infinity And Beyond :trollface:"</i>
     </b>
   </samp>
 </p>
