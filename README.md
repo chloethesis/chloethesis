@@ -7,15 +7,15 @@
   </samp>
 </h2>
 
-[![Chloethesis github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=chloethesis&locale=en&show_icons=true&bg_color=ffffff&title_color=A020F0&text_color=223&icon_color=A020F0)](https://chloethesis.github.io/)
-
-
+[![Chloethesis github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=chloethesis&locale=en&show_icons=true&bg_color=ffffff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://chloethesis.github.io/)
 
 <p align="left">
   <samp>
     空白...
   </samp>
 </p>
+
+<img width="100%" alt="Footer" src="footer.png">
 
 <!--<h3 align="left">
   <samp>
@@ -90,7 +90,7 @@
 </p>-->
 
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>-->
-  <img src="footer.png">
+  
 
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gif">-->
 
