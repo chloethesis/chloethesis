@@ -1,17 +1,20 @@
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gif">-->
 
-
 <h2 align="left">
   <samp>
-    オハヨウグザイマス👋
+    <b>
+      オハヨウグザイマス🦊
+    </b>
   </samp>
 </h2>
 
 [![Chloethesis github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=chloethesis&locale=en&show_icons=true&bg_color=ffffff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://chloethesis.github.io/)
 
-<p align="left">
+<p align="center">
   <samp>
-    空白...
+    <b>
+      <i>"Towards Infinity And Beyond"</i>
+    </b>
   </samp>
 </p>
 
