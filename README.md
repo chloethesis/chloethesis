@@ -27,15 +27,16 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠉⠉⠉⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠈⠙⠛⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
 
-[![Chloethesis github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=chloethesis&locale=en&show_icons=true&bg_color=ffffff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://chloethesis.github.io/)
-
-<p align="center">
+<h2 align="left">
   <samp>
     <b>
-      <i>"Towards Infinity And Beyond :trollface:"</i>
+      私のアクティビティ 🚀
     </b>
   </samp>
-</p>
+</h2>
+
+[![Chloethesis github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=chloethesis&locale=en&show_icons=true&bg_color=ffffff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://chloethesis.github.io/)
+
 
 <img width="100%" alt="Footer" src="footer.png">
 
