@@ -37,6 +37,18 @@
 
 [![Chloethesis github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=chloethesis&locale=en&show_icons=true&bg_color=ffffff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://chloethesis.github.io/)
 
+<h2 align="left">
+  <samp>
+    <b>
+     私の投稿🍁
+    </b>
+  </samp>
+</h2>
+
+[![Webshell](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=S3RV4N7-SHELL&border_color=6140ef&bg_color=0D1117&title_color=6140ef&text_color=8B949E&icon_color=6140ef)](https://github.com/chloethesis/S3RV4N7-SHELL)
+[![Defenderagain](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&border_color=6140ef&bg_color=0D1117&title_color=6140ef&text_color=8B949E&icon_color=6140ef)](https://github.com/chloethesis/defenderagain)
+[![Hackbar Mod By Me](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=hackbar&border_color=6140ef&bg_color=0D1117&title_color=6140ef&text_color=8B949E&icon_color=6140ef)](https://github.com/chloethesis/hackbar)
+
 
 <img width="100%" alt="Footer" src="footer.png">
 
