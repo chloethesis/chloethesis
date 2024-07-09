@@ -45,9 +45,9 @@
   </samp>
 </h2>
 
-[![Webshell](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=S3RV4N7-SHELL&border_color=6140ef&bg_color=0D1117&title_color=6140ef&text_color=8B949E&icon_color=6140ef)](https://github.com/chloethesis/S3RV4N7-SHELL)
-[![Defenderagain](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&border_color=6140ef&bg_color=0D1117&title_color=6140ef&text_color=8B949E&icon_color=6140ef)](https://github.com/chloethesis/defenderagain)
-[![Hackbar Mod By Me](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=hackbar&border_color=6140ef&bg_color=0D1117&title_color=6140ef&text_color=8B949E&icon_color=6140ef)](https://github.com/chloethesis/hackbar)
+[![Webshell](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=S3RV4N7-SHELL&bg_color=ffffff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/S3RV4N7-SHELL)
+[![Defenderagain](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&bg_color=ffffff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/defenderagain)
+[![Hackbar Mod By Me](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=hackbar&bg_color=ffffff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/hackbar)
 
 
 <img width="100%" alt="Footer" src="footer.png">
