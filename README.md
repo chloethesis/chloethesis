@@ -7,6 +7,7 @@
     </b>
   </samp>
 </h2>
+<hr>
 
 <pre>
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣶⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -34,6 +35,7 @@
     </b>
   </samp>
 </h2>
+<hr>
 
 [![Chloethesis github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=chloethesis&locale=en&show_icons=true&bg_color=ffffff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://chloethesis.github.io/)
 
@@ -44,10 +46,12 @@
     </b>
   </samp>
 </h2>
+<hr>
 
-[![Webshell](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=S3RV4N7-SHELL&bg_color=0,000000,1e1e1e&title_color=6140ef&text_color=fff&icon_color=6140ef)](https://github.com/chloethesis/S3RV4N7-SHELL)
-[![Defenderagain](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&bg_color=0,000000,1e1e1e&title_color=6140ef&text_color=fff&icon_color=6140ef)](https://github.com/chloethesis/defenderagain)
-[![Hackbar Mod By Me](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=hackbar&bg_color=0,000000,1e1e1e&title_color=6140ef&text_color=fff&icon_color=6140ef)](https://github.com/chloethesis/hackbar)
+[![Webshell](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=S3RV4N7-SHELL&bg_color=0,000000,23242c&title_color=6140ef&text_color=fff&icon_color=6140ef)](https://github.com/chloethesis/S3RV4N7-SHELL)
+[![Defenderagain](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&bg_color=0,000000,23242c&title_color=6140ef&text_color=fff&icon_color=6140ef)](https://github.com/chloethesis/defenderagain)
+[![Hackbar Mod By Me](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=hackbar&bg_color=0,000000,23242c&title_color=6140ef&text_color=fff&icon_color=6140ef)](https://github.com/chloethesis/hackbar)
+[![Phpunit-rce](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=phpunit-rce&bg_color=0,000000,23242c&title_color=6140ef&text_color=fff&icon_color=6140ef)](https://github.com/chloethesis/phpunit-rce)
 
 
 <img width="100%" alt="Footer" src="footer.png">
