@@ -7,7 +7,6 @@
     </b>
   </samp>
 </h2>
-<hr>
 
 <pre>
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣶⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -35,7 +34,6 @@
     </b>
   </samp>
 </h2>
-<hr>
 
 [![Chloethesis github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=chloethesis&locale=en&show_icons=true&bg_color=ffffff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://chloethesis.github.io/)
 
@@ -46,7 +44,6 @@
     </b>
   </samp>
 </h2>
-<hr>
 
 [![Webshell](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=S3RV4N7-SHELL&bg_color=0,ffffff,f2f3ff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/S3RV4N7-SHELL)
 [![Defenderagain](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&bg_color=0,ffffff,f2f3ff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/defenderagain)
