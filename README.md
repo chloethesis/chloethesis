@@ -1,9 +1,9 @@
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gif">-->
 
-<h2 align="left">
+<h2 align="center">
   <samp>
     <b>
-      オハヨウグザイマス<a href="https://www.fakenamegenerator.com/smiley-generator.php"><img src="https://www.fakenamegenerator.com/smiley/3_34_86_0_0_0_0_0_0.gif" border="0"/></a>
+     <a href="https://www.fakenamegenerator.com/smiley-generator.php"><img src="https://www.fakenamegenerator.com/smiley/3_10_29_0_0_0_0_0_0.gif" border="0"/></a> オハヨウグザイマス <a href="https://www.fakenamegenerator.com/smiley-generator.php"><img src="https://www.fakenamegenerator.com/smiley/3_34_86_0_0_0_0_0_0.gif" border="0"/></a>
     </b>
   </samp>
 </h2>
