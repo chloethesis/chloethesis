@@ -3,7 +3,7 @@
 <h2 align="left">
   <samp>
     <b>
-      オハヨウグザイマス🦊
+      オハヨウグザイマス<a href="https://www.fakenamegenerator.com/smiley-generator.php"><img src="https://www.fakenamegenerator.com/smiley/3_34_86_0_0_0_0_0_0.gif" border="0"/></a>
     </b>
   </samp>
 </h2>
