@@ -36,10 +36,10 @@
   </samp>
 </h2>
 
-[![Webshell](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=S3RV4N7-SHELL&bg_color=0,ffffff,f2f3ff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/S3RV4N7-SHELL)
-[![Defenderagain](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=defenderagain&bg_color=0,ffffff,f2f3ff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/defenderagain)
-[![Hackbar Mod By Me](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=hackbar&bg_color=0,ffffff,f2f3ff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/hackbar)
-[![Phpunit-rce](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=phpunit-rce&bg_color=0,ffffff,f2f3ff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/phpunit-rce)
+[![Webshell](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&repo=S3RV4N7-SHELL&border_color=6140ef&bg_color=0,ffffff,f2f3ff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/S3RV4N7-SHELL)
+[![Defenderagain](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&border_color=6140ef&repo=defenderagain&bg_color=0,ffffff,f2f3ff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/defenderagain)
+[![Hackbar Mod By Me](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&border_color=6140ef&repo=hackbar&bg_color=0,ffffff,f2f3ff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/hackbar)
+[![Phpunit-rce](https://github-readme-stats.vercel.app/api/pin/?username=chloethesis&border_color=6140ef&repo=phpunit-rce&bg_color=0,ffffff,f2f3ff&title_color=6140ef&text_color=223&icon_color=6140ef)](https://github.com/chloethesis/phpunit-rce)
 
 
 <img width="100%" alt="Footer" src="footer.png">
