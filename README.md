@@ -19,8 +19,7 @@
 </h2>
 
 
-I'm **[Lexusyacht](about:blank)**, a cybersecurity enthusiast and researcher. I'm working towards becoming a **Nolife Student** or a **A thinker**. <br>
-**Creative** in technology has always intrigued me, and I've dedicated myself to exploring the dynamic realm of cybersecurity. From understanding malware and viruses to uncovering vulnerabilities, I aim to become a Cybersecurity Specialist to protect digital assets and support the tech community.
+I'm **[Lexusyacht](about:blank)**, Someone who is interested in the **Digital World** and innovates and performs **Analysis of Information Technology**.<br>With this, I hope you can wisely manage cyberspace information.
 
 
 <details>
