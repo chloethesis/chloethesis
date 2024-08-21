@@ -23,16 +23,14 @@ I'm **[Lexusyacht](about:blank)**, Someone who is interested in the **Digital Wo
 
 
 <details>
-  <summary>More about me</summary>
+  <summary>Furthermore...</summary>
 
-- **Name**: coffin
-- **From**: Russia
-- **Bug Hunter** | **Security Researcher** | **forensics Expert**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy agent.
--**Reverse Engineering**, **Malware Analysis**
-- Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **everything** 
-- Reach me out at **coffinxp7@proton.me**
+- **Name**: Lexusyacht
+- **From**: Utopia
+- **Nolife People** | **Skid FRFR**
+- Increase knowledge about **Cyber World**
+- I'm currently studying **everything**
+- Meet me at **irish.monarch@cyberfear.com**
 
 </details>
 <br>
