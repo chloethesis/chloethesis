@@ -38,34 +38,11 @@ I'm **[Lexusyacht](about:blank)**, Someone who is interested in the **Digital Wo
 
 ---
 
-<h2 id="present_status"> Present Status </h3>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<h2 id="github_stats" align=''><samp>GitHub Stats 👨‍💻</samp></h2>
 
-👉 Still Learning Bug hunting & malware forensics.
-
-👉 Managing Tech Communities & Content creator.
-
-👉 Writing Some Useful Tools For Myself & Communities
-
-👉 Building & Contributing To Open Source Projects
-
-👉 Currently Learning mobile pentesting & web3 
-
-`Updating:`  Journey to Cybersecurity Specialist👀.
-
----
-
-
-
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinsp&theme=vision-friendly-dark)](https://github.com/coffinsp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinsp&theme=dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinsp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinsp&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
-
-<br>
-
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloethesis&theme=vision-friendly-dark)](https://github.com/chloethesis/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=chloethesis&theme=vision-friendly-dark&card_width=450)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/chloethesis/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloethesis&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
 ---
