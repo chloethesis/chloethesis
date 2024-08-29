@@ -37,12 +37,3 @@ I'm **[Lexusyacht](about:blank)**, Someone who is interested in the **Digital Wo
 
 
 ---
-
-
-<h2 id="github_stats" align=''><samp>GitHub Stats ⛭</samp></h2>
-
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloethesis&theme=vision-friendly-dark)](https://github.com/chloethesis/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=chloethesis&theme=vision-friendly-dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/chloethesis/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloethesis&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
-
----
