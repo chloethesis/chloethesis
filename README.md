@@ -1,5 +1,5 @@
 <div align="center"><img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/tor_nightly_browser_logo_icon_152956.png" width="40%"></div>
-
+<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
