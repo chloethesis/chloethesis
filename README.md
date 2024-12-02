@@ -21,7 +21,7 @@ YMMMUP^
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&color=7300FF&width=435&lines=Here+you+won't+find+anything+(･⁠ ⁠〰⁠ ⁠･)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&color=8A00FF&width=435&lines=Here+you+won't+find+anything+(･⁠ ⁠〰⁠ ⁠･)" alt="Typing SVG" />
   </a>
 </div>
 
