@@ -4,6 +4,6 @@
   </a>
 </div>
 <div align="left">
-  <img width="20%" src="/assets/hmmpphh.gif">
+  <img width="15%" src="/assets/hmmpphh.gif">
 <a href="https://github.com/chloethesis?tab=repositories">すべてのリポジトリを見る ~></a>
 </div>
