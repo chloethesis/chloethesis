@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="left" src="/assets/hmmpphh.gif" width="180" height="175" />
+<a href="about:blank"><img align="left" src="/assets/hmmpphh.gif" alt="Gif desu" width="180" height="175" /></a>
 
 <p>
   <samp>
