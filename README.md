@@ -11,8 +11,6 @@
     <br>
 学ぶべきことはまだたくさんあるかもしれませんが、コードの一行一行が新しい冒険の始まりなのです。私のコーディングの旅へようこそ！はじめまして
 
-
-
 <div align="left">
 <a href="https://github.com/chloethesis?tab=repositories">すべてのリポジトリを見る ~></a>
 </div>
