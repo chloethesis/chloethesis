@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<a href="about:blank"><img align="left" src="https://cdn.shopify.com/s/files/1/0318/2649/files/fin.gif?v=1696920883" alt="Gif Desu" width="60%" style="margin-right: 10px;"/></a> 
+<!--<a href="about:blank"><img align="left" src="https://cdn.shopify.com/s/files/1/0318/2649/files/fin.gif?v=1696920883" alt="Gif Desu" width="60%" style="margin-right: 10px;"/></a>-->
 
 こんにちは、私のGitHubページへようこそ！私は好奇心旺盛で、情報技術を含む世界の発展に興味があるティーンエイジャーです。ここでは、シンプルなプロジェクトや、コードとクリエイティビティが出会う場所、公園で遊ぶ子供のようにワイルドなアイデアが飛び交う場所を見つけることができます！
 <br> 
