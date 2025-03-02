@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://github.com/chloethesis?tab=repositories">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=00ff00&width=435&lines=やあやあ、ようこそ (⁠´⁠ε⁠｀⁠⁠)" alt="Typing SVG" />
   </a>
