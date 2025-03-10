@@ -20,7 +20,7 @@
 <div align="left">
   <p>
     <samp>
-<a href="https://github.com/chloethesis?tab=repositories">すべてのリポジトリを見る ~></a>
+<a href="https://github.com/chloethesis?tab=repositories">すべてのリポジトリを見る ~〉</a>
     </samp>
 </p>
 </div>
