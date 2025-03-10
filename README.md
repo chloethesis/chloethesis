@@ -4,10 +4,19 @@
   </a>
 </div>
 
+<table>
+  <tr>
+    <td>
 <p align="center">
 <img src="https://socialify.git.ci/chloethesis/chloethesis/image?description=1&descriptionEditable=Adventurer+Rank+S&font=Source%20Code%20Pro&name=1&pattern=Circuit%20Board&theme=Dark" alt="chloethesis" width="700" height="300" />
 </p>
+    </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td>
 <p>
   <samp>
 こんにちは、私のGitHubページへようこそ！私は好奇心旺盛で、情報技術を含む世界の発展に興味があるティーンエイジャーです。ここでは、シンプルなプロジェクトや、コードとクリエイティビティが出会う場所、公園で遊ぶ子供のようにワイルドなアイデアが飛び交う場所を見つけることができます！
@@ -16,11 +25,20 @@
 学ぶべきことはまだたくさんあるかもしれませんが、コードの一行一行が新しい冒険の始まりなのです。私のコーディングの旅へようこそ！はじめまして
 </samp>
 </p>
+</td>
+  </tr>
+</table>
 
-<div align="left">
+<div align="center">
+  <table>
+    <tr>
+      <td>
   <p>
     <samp>
 <a href="https://github.com/chloethesis?tab=repositories">すべてのリポジトリを見る ~〉</a>
     </samp>
 </p>
+  </td>
+    </tr>
+  </table>
 </div>
