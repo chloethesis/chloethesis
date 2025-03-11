@@ -18,7 +18,11 @@
   </tr>
 </table>
 
+###
+
 <img align="right" alt="Loli" height="150" src="assets/hmmpphh.gif"  />
+
+###
 
 <p>
   <samp>
@@ -28,3 +32,20 @@
 学ぶべきことはまだたくさんあるかもしれませんが、コードの一行一行が新しい冒険の始まりなのです。私のコーディングの旅へようこそ！はじめまして
 </samp>
 </p>
+
+<br />
+
+
+<table>
+  <tr>
+    <td>
+      <samp>
+      🔓 公開鍵をインポートする
+      </samp>
+    </td>
+  </tr>
+</table>
+
+```bash
+$ curl -s https://github.com/chloethesis.gpg | gpg --import
+```
