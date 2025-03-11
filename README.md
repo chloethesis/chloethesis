@@ -12,16 +12,13 @@
   <tr>
     <td>
       <samp>
-      について
+      🍙 私について
       </samp>
     </td>
   </tr>
 </table>
 
-###
-
-<img align="right" height="150" src="assets/hmmpphh.gif"  />
-
+<img align="right" alt="Loli" height="150" src="assets/hmmpphh.gif"  />
 
 <p>
   <samp>
