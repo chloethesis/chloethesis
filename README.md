@@ -8,15 +8,11 @@
 <img src="https://socialify.git.ci/chloethesis/chloethesis/image?description=1&descriptionEditable=Adventurer+Rank+S&font=Source%20Code%20Pro&name=1&pattern=Circuit%20Board&theme=Dark" alt="chloethesis" width="700" height="300" />
 </p>-->
 
-<table>
-  <tr>
-    <td>
+<h2>
       <samp>
       🍙 私について
       </samp>
-    </td>
-  </tr>
-</table>
+</h2>
 
 ###
 
@@ -33,18 +29,11 @@
 </samp>
 </p>
 
-<br />
-
-
-<table>
-  <tr>
-    <td>
+<h2>
       <samp>
       🔓 公開鍵をインポートする
       </samp>
-    </td>
-  </tr>
-</table>
+</h2>
 
 ```bash
 $ curl -s https://github.com/chloethesis.gpg | gpg --import
