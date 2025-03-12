@@ -10,7 +10,7 @@
 
 <h2>
       <samp>
-      🍙 私について
+      私について
       </samp>
 </h2>
 
@@ -31,7 +31,16 @@
 
 <h2>
       <samp>
-      🔓 公開鍵をインポートする
+      私の統計
+      </samp>
+</h2>
+
+![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=chloethesis)
+
+
+<h2>
+      <samp>
+      公開鍵をインポートする
       </samp>
 </h2>
 
