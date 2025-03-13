@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" alt="Loli" height="150" src="assets/hmmpphh.gif"  />
+<img align="right" alt="Loli" height="150" src="https://cdn3.iconfinder.com/data/icons/england-filled-outline/340/detective_sherlock_holmes_glass_magnifying_mystery_pipe-1024.png"  />
 
 ###
 
