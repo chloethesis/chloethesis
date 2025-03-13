@@ -36,14 +36,3 @@
 </h2>
 
 ![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=chloethesis)
-
-
-<h2>
-      <samp>
-      公開鍵をインポートする
-      </samp>
-</h2>
-
-```bash
-$ curl -s https://github.com/chloethesis.gpg | gpg --import
-```
