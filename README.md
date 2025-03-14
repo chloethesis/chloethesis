@@ -25,6 +25,8 @@
       </samp>
 </h2>
 
-<center><a href="https://gitroll.io/profile/uux9aIUthXKPVibGvaXLXTP6BI772" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uux9aIUthXKPVibGvaXLXTP6BI772" alt="GitRoll Profile Badge"/></a></center>
+<center>
+      <a href="https://gitroll.io/profile/uux9aIUthXKPVibGvaXLXTP6BI772" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uux9aIUthXKPVibGvaXLXTP6BI772?theme=kawaiiCat" alt="GitRoll Profile Badge"/></a>
+</center>
 
 ![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=chloethesis)
