@@ -1,13 +1,3 @@
-<!--<div align="center">
-  <a href="https://github.com/chloethesis?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=00ff00&width=435&lines=やあやあ、ようこそ (⁠´⁠ε⁠｀⁠⁠)" alt="Typing SVG" />
-  </a>
-</div>-->
-
-<!--<p align="center">
-<img src="https://socialify.git.ci/chloethesis/chloethesis/image?description=1&descriptionEditable=Adventurer+Rank+S&font=Source%20Code%20Pro&name=1&pattern=Circuit%20Board&theme=Dark" alt="chloethesis" width="700" height="300" />
-</p>-->
-
 <h2>
       <samp>
       私について
